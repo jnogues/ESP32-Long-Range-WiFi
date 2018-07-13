@@ -1,5 +1,5 @@
 // based on https://gist.github.com/yaqwsx/ac662c9b600ef39a802da0be1b25d32d
-// 2018.07.14 jnogues@gmail.com
+// 2018.07.14 jnogues@gmail.com, Jaume Nogués, rPrim Tech
 // This sketch shows the use of 802.11 LR (Low Rate)
 // master.ino
 
