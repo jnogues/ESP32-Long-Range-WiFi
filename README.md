@@ -1,6 +1,6 @@
 # ESP32-Long-Range-WiFi
 
-Estos son las primeras pruebas con el protocolo propietario 802.11 LR de espressif de las ESP32.
+Estos son las primeras pruebas con el protocolo propietario **802.11 LR (Long Range)** de espressif de las ESP32.
 Los dispositivos utilizados son dos  [Wemos lolin32](https://wiki.wemos.cc/products:lolin32:lolin32), de las antiguas.
 ![](https://wiki.wemos.cc/_media/products:lolin32:lolon32_v1.0.0_1_16x9.jpg)
 
