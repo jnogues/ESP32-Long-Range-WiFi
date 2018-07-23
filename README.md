@@ -17,7 +17,7 @@ Para conseguir un buen alcance las dos unidades deben de estar en la linea de vi
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC79ql3CHAhfLjbrxUMksoLZ9WpQKKgsQRn848KdDWiLN4QdE_5A)
 
-En una primera prueba, seguramente mejorable, he conseguido **294 m** de alcance. Espero superar esta distancia en algunos metros.
+En una primera prueba, seguramente mejorable, he conseguido **294 m** de alcance. Espero superar esta distancia en algunos metros. Actualización **346 m**.
 Es de esperar que con antenas externas o direccionales se pudiera alcanzar el 1 kilómetro indicado por espressif. 
 
 Se aceptan consejos y propuestas.
