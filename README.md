@@ -21,6 +21,7 @@ En una primera prueba, seguramente mejorable, he conseguido **294 m** de alcance
 
 Actualización **346 m**.
 ![](https://pbs.twimg.com/media/DiDnwA8X4AAGyLf.jpg)
+
 Es de esperar que con antenas externas o direccionales se pudiera alcanzar el 1 kilómetro indicado por espressif. 
 
 Se aceptan consejos y propuestas.
